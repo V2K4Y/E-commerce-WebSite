@@ -30,13 +30,6 @@ Users should be able to:
 
 ![screenshot](./screenshot.png)
 
-### Links
-
-- Live Site URL: [https://kens-visuals.github.io/ecommerce-product-page/](https://kens-visuals.github.io/ecommerce-product-page/)
-- Solution URL: [TO_BE_UPDATED](TO_BE_UPDATED)
-
-## My process
-
 ### Built with
 
 - React
@@ -44,19 +37,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS Flexbox
 - CSS Grid
-- Mobile-first workflow
-
-### What I learned
-
-This was my first Intermediate project, and I'm really excited about the stack that I used. It wasn't a really big project, but it was big enough for Tailwind CSS. I used Tailwind CSS before in a small project, however, this time around it was a completely different experience. Although, I like Tailwind CSS a lot, I don't think one can use it in each and every project. Sometimes, I want to take the control in my hands, and in that case styled-components come to help. In brief, a cool project, that helped me to know Tailwind better and decide in what type of project I'd like to use it in the future.
 
 ### Useful resources
 
 - [My image slider](https://codesandbox.io/embed/nice-snyder-h46gsi?fontsize=14&hidenavigation=1&theme=dark) - Before beginning this project, I just wanted to make a simple slider in React and plain CSS for some practice. So, if you need a reference, here's one.
-
-## Author's Links
-
-- Medium - [@kens_visuals](https://medium.com/@kens_visuals)
-- CodePen - [@kens-visuals](https://codepen.io/kens-visuals)
-- Codewars - [@kens_visuals](https://www.codewars.com/users/kens_visuals)
-- Frontend Mentor - [@kens-visuals](https://www.frontendmentor.io/profile/kens-visuals)
