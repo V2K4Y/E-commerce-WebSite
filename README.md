@@ -1,4 +1,4 @@
-# Frontend Mentor - E-Commerce Product Page Solution
+# E-Commerce Product Page Solution
 
 This is a solution to the [E-Commerce Product Page Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
 
@@ -38,6 +38,3 @@ Users should be able to:
 - CSS Flexbox
 - CSS Grid
 
-### Useful resources
-
-- [My image slider](https://codesandbox.io/embed/nice-snyder-h46gsi?fontsize=14&hidenavigation=1&theme=dark) - Before beginning this project, I just wanted to make a simple slider in React and plain CSS for some practice. So, if you need a reference, here's one.
