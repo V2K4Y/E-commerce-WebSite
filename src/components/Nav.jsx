@@ -7,7 +7,7 @@ import Cart from './Cart';
 import logo from '../images/logo.svg';
 import menuIcon from '../images/icon-menu.svg';
 import cartIcon from '../images/icon-cart.svg';
-import avatar from '../images/image-avatar.png';
+import avatar from '../images/129-512.webp';
 import closeIcon from '../images/icon-close.svg';
 
 export default function Nav({ savedCount, setSavedCount }) {
