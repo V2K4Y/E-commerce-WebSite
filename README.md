@@ -10,9 +10,6 @@ This is a solution to the [E-Commerce Product Page Challenge on Frontend Mentor]
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author's Links](#authors-links)
 
 ## Overview
 
